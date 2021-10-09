@@ -9,12 +9,13 @@
 title: Eric's Personal Website
 
 # Your name to show in the footer
-author: Eric
+author: Eric Hsu
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "/"
 
 # --- Logo --- #
 
@@ -85,7 +86,7 @@ feed_show_tags: true
 post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "resume,zeku,tech"
+keywords: "resume,zeku,tech,rustlang,Rust"
 
 # --- Colours / background image --- #
 
