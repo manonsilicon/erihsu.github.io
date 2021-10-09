@@ -85,7 +85,7 @@ feed_show_tags: true
 post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "resume,zeku,tech"
 
 # --- Colours / background image --- #
 
@@ -196,13 +196,13 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  # -
-  #   scope:
-  #     path: ""
-  #     type: "posts"
-  #   values:
-  #     layout: "post"
-  #     comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      # comments: true  # add comments to all blog posts
   #     social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
