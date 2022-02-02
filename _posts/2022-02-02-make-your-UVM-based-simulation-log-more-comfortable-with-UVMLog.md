@@ -11,6 +11,6 @@ In early stage, UVMLog is only support Sublime Text. UVMLog provide some highlig
 If you open file extended with .log or .uvmlog, ST will automatically set UVMLog syntax for it.
 
 Here is the log demo with UVMLog
-![simulation log demo](assets/img/UVMLog_demo.png)
+![simulation log demo](../assets/img/UVMLog_demo.png)
 
 You can find UVMLog package from package control
