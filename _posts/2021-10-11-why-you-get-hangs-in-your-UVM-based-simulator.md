@@ -1,4 +1,9 @@
-# Why you get hangs in your UVM-based simulation
+---
+layout: post
+title: Why you get hangs in your UVM-based simulation
+tags: [UVM]
+---
+
 I summerize some main reasons when you may see your testbench simulator hangs:
 
 1. get hangs in agent-driver/monitor forever loops because there is no time consumed in the loop

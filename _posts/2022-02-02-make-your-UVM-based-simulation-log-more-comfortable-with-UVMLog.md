@@ -1,3 +1,9 @@
+---
+layout: post
+title: Make your UVM-based simulation log more comfortable with UVMLog
+tags: [editor,plugin,SublimeText]
+---
+
 # Make your UVM-based simulation log more comfortable with UVMLog
 Log and waveform are great pair for DVers to debug RTL or testbench. We can use commercial debug tools to analyze waveform, most of them, of course, allow us highlight waveform signal, mark signal, search value from waveform database, which help us a lot in waveform-based debugging.
 
